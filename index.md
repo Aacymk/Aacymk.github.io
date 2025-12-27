@@ -50,5 +50,5 @@ title: Home
 
 ## 📬 Get In Touch
 I’m always open to discussing new projects or opportunities!
-* **Email:** [DonovanAus11@gmail.com] | [daus@terpmail.umd.edu]
+* **Email:** [DonovanAus11@gmail.com], [daus@terpmail.umd.edu]
 * **LinkedIn:** [[linkedin](https://www.linkedin.com/in/donovan-aus-00562836b/)]
