@@ -4,7 +4,7 @@ title: Donovan Aus
 ---
 
 # Hi, I'm Donovan
-**Aspiring Data Analyst** *Based in Washington, D.C. • [[LinkedIn](https://www.linkedin.com/in/donovan-aus-00562836b/)] • [GitHub](https://github.com/Aacymk)*
+**Aspiring Data Analyst** *Based in Washington, D.C. • [LinkedIn](https://www.linkedin.com/in/donovan-aus-00562836b/) • [GitHub](https://github.com/Aacymk)*
 
 ---
 
@@ -28,15 +28,19 @@ title: Donovan Aus
 ---
 
 ## Education
-**Bachelors of Computer Science** *University of Maryland* | *2025-2029*
+**Bachelors of Science: Statistics** *University of Maryland* | *2025-2029*
 * **Relevant Coursework:** Object Oriented Programming, Calculus I-III, Statistics
 
 ---
 
 ## Current Work
-**[Current Role/Company Name]** | *[Month, Year] – Present*
-* Brief one-sentence summary of what you are doing right now (e.g., "Building a scalable API for a fintech startup" or "Currently learning Advanced React and Cloud Architecture").
-* Key focus: **[Skill A], [Skill B], and [Skill C]**.
+* **Undergraduate Research: University of Maryland** | *December 2025 – Present*
+* Preforming qualitative analysis on large-scale disaster imagery datasets to evaluate model accuracy.
+* Key focus: **Qualitative analysis**.
+
+* **Research Intern: Raydian**
+* Developing an AI-assisted navigation system that identifies, summarizes, and presents candidate algorithms for a given analytical task.
+* Key focus: **Algorithm Selection**, **Workflow Orchestration**
 
 ---
 
