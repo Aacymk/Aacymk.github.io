@@ -13,12 +13,12 @@ title: Home
 ### 1. Volatility Regime Detection
 * **The Problem:** Determining whether a GHMM can classify meaningful market regimes on s&p500 data rather than just fitting noise.
 * **The Tech:** `Python` `pandas` `hmmlearn`
-* **The Link:** [View on GitHub](#https://github.com/Aacymk/ghmm_regime_detection)
+* **The Link:** [View on GitHub](https://github.com/Aacymk/ghmm_regime_detection)
 
-### 2. [Project Name Two]
-* **The Problem:** What inspired you to build this?
-* **The Tech:** `Node.js` `AWS` `Docker`
-* **The Link:** [View on GitHub](#) | [Live Demo](#)
+### 2. Cointegration Analysis
+* **The Problem:** Assessed how cointegration between stock pairs changes across time windows.
+* **The Tech:** `Python` `statsmodels.api` `adfuller`
+* **The Link:** [View on GitHub](https://github.com/Aacymk/cointegration_model)
 
 ### 3. [Project Name Three]
 * **The Problem:** A quick summary of the goal.
@@ -32,10 +32,9 @@ title: Home
 
 ---
 
-## 🎓 Education
-**[Degree Name / Major]** *[University Name]* | *[Graduation Year]*
-* **Relevant Coursework:** [Course 1], [Course 2], [Course 3]
-* **Honors/Awards:** [Optional: Dean's List, Scholarships, etc.]
+## Education
+**Bachelors of Computer Science** *University of Maryland* | *2025-2029*
+* **Relevant Coursework:** Object Oriented Programming, Calculus I-III, Statistics
 
 ---
 
@@ -51,5 +50,5 @@ title: Home
 
 ## 📬 Get In Touch
 I’m always open to discussing new projects or opportunities!
-* **Email:** [yourname@email.com]
-* **LinkedIn:** [linkedin.com/in/yourusername]
+* **Email:** [DonovanAus11@gmail.com] | [daus@terpmail.umd.edu]
+* **LinkedIn:** [[linkedin](https://www.linkedin.com/in/donovan-aus-00562836b/)]
