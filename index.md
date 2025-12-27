@@ -8,19 +8,12 @@ title: Home
 
 ---
 
-## 🚀 Current Work
-**[Current Role/Company Name]** | *[Month, Year] – Present*
-* Brief one-sentence summary of what you are doing right now (e.g., "Building a scalable API for a fintech startup" or "Currently learning Advanced React and Cloud Architecture").
-* Key focus: **[Skill A], [Skill B], and [Skill C]**.
+## Featured Projects
 
----
-
-## 🛠 Featured Projects
-
-### 1. [Project Name One]
-* **The Problem:** Briefly describe what this project solves.
-* **The Tech:** `Python` `React` `PostgreSQL`
-* **The Link:** [View on GitHub](#) | [Live Demo](#)
+### 1. Volatility Regime Detection
+* **The Problem:** Determining whether a GHMM can classify meaningful market regimes on s&p500 data rather than just fitting noise.
+* **The Tech:** `Python` `pandas` `hmmlearn`
+* **The Link:** [View on GitHub](#https://github.com/Aacymk/ghmm_regime_detection)
 
 ### 2. [Project Name Two]
 * **The Problem:** What inspired you to build this?
