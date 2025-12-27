@@ -29,7 +29,7 @@ title: Donovan Aus
 
 ## Education
 **Bachelors of Science: Statistics** *University of Maryland* | *2025-2029*
-* **Relevant Coursework:** Object Oriented Programming, Calculus I-III, Statistics
+* **Relevant Coursework:** Object Oriented Programming, Calculus I-III, Statistics, 4.0 GPA
 
 ---
 
