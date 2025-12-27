@@ -34,11 +34,11 @@ title: Donovan Aus
 ---
 
 ## Current Work
-* **Undergraduate Research: University of Maryland** | *December 2025 – Present*
+* **Undergraduate Research**: *University of Maryland* | *December 2025 – Present*
 * Preforming qualitative analysis on large-scale disaster imagery datasets to evaluate model accuracy.
 * Key focus: **Qualitative analysis**.
 
-* **Research Intern: Raydian**
+* **Research Intern**: *Raydian* | *November 2025 – Present*
 * Developing an AI-assisted navigation system that identifies, summarizes, and presents candidate algorithms for a given analytical task.
 * Key focus: **Algorithm Selection**, **Workflow Orchestration**
 
