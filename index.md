@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: Donovan Aus
 ---
 
 # Hi, I'm Donovan
-**[Your Job Title or "Aspiring Software Engineer" / "Data Analyst"]** *Based in [Your City/Remote] • [Link to LinkedIn] • [Link to GitHub]*
+**Aspiring Data Analyst** *Based in Washington, D.C. • [[LinkedIn](https://www.linkedin.com/in/donovan-aus-00562836b/)] • [GitHub](https://github.com/Aacymk)*
 
 ---
 
@@ -20,15 +20,10 @@ title: Home
 * **The Tech:** `Python` `statsmodels.api` `adfuller`
 * **The Link:** [View on GitHub](https://github.com/Aacymk/cointegration_model)
 
-### 3. [Project Name Three]
-* **The Problem:** A quick summary of the goal.
-* **The Tech:** `JavaScript` `CSS` `HTML`
-* **The Link:** [View on GitHub](#)
-
-### 4. [Project Name Four]
-* **The Problem:** Why does this matter?
-* **The Tech:** `C++` `Unity`
-* **The Link:** [View on GitHub](#)
+### 3. Price Elasticity Model
+* **The Problem:** Used resale price data to assess optimal retail prices.
+* **The Tech:** `Python` `pandas` `scikit-learn`
+* **The Link:** [View on GitHub](https://github.com/Aacymk/sneaker_elasticity_model)
 
 ---
 
@@ -38,17 +33,14 @@ title: Home
 
 ---
 
-## 🚀 Current Work
+## Current Work
 **[Current Role/Company Name]** | *[Month, Year] – Present*
 * Brief one-sentence summary of what you are doing right now (e.g., "Building a scalable API for a fintech startup" or "Currently learning Advanced React and Cloud Architecture").
 * Key focus: **[Skill A], [Skill B], and [Skill C]**.
 
 ---
 
-
----
-
-## 📬 Get In Touch
+## Get In Touch
 I’m always open to discussing new projects or opportunities!
-* **Email:** [DonovanAus11@gmail.com], [daus@terpmail.umd.edu]
+* **Email:** [DonovanAus11@gmail.com] • [daus@terpmail.umd.edu]
 * **LinkedIn:** [[linkedin](https://www.linkedin.com/in/donovan-aus-00562836b/)]
